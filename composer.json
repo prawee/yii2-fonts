@@ -1,0 +1,21 @@
+{
+    "name": "prawee/yii2-fonts",
+    "description": "Thai Fonts for Yii 2 Web Applications",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","fonts","thai"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "konkeanweb@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "prawee\\assets\\": ""
+        }
+    }
+}
